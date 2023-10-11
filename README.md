@@ -9,3 +9,5 @@ notebook:
 
 
 做一些基本的尝试 大胆
+
+use git command
