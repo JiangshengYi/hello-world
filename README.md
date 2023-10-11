@@ -8,4 +8,4 @@ notebook:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/dm_control/blob/master/tutorial.ipynb)
 
 
-做一些基本的常识
+做一些基本的尝试 大胆
